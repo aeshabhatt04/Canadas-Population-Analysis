@@ -27,4 +27,16 @@ The project aimed to comprehensively analyze population trends across Canada’s
    Finally, we summarized key findings and provided recommendations for policymakers and urban planners. Emphasizing the need for resource allocation in infrastructure, healthcare, and education, we suggested that insights from the population data could inform long-term, sustainable development strategies. By anticipating demographic shifts, stakeholders could proactively address the demands of Canada’s growing population.
 
 # Outcomes:
-The project revealed steady population growth across Canada’s most populous provinces—Ontario, Quebec, Manitoba, Alberta, and British Columbia—primarily driven by migration and natural increase. Seasonal trends indicated temporary population spikes, likely tied to tourism and employment. A strong correlation between population changes, time, and region enabled accurate forecasting, while ANOVA results confirmed consistent growth across years, supporting reliable planning. These findings underscore the need for strategic resource allocation and sustainable development in key areas like infrastructure and healthcare to meet the demands of a growing population. Future refinements could further enhance predictive accuracy by including additional variables.
+The project achieved several key outcomes:
+
+1. **Identified Key Population Hubs**: Determined Ontario, Quebec, Manitoba, Alberta, and British Columbia as the most populous provinces, driven by economic opportunities and quality of life.
+
+2. **Revealed Steady Growth Trends**: Established that population growth across these provinces was stable, influenced by factors like migration and natural increase.
+
+3. **Uncovered Seasonal Variations**: Found quarterly peaks in population due to tourism, employment, and seasonal migration, highlighting the need for adaptive planning.
+
+4. **Built a Predictive Model**: Developed a linear regression model that accurately forecasts population changes with an R² of 0.9685, supporting reliable future predictions.
+
+5. **Informed Policy and Planning**: Provided data-driven recommendations for policymakers to focus on sustainable development in infrastructure, healthcare, and education to meet future population needs. 
+
+These outcomes offer a foundation for strategic planning and targeted investments in Canada’s high-growth regions.
